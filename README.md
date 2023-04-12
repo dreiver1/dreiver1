@@ -1,16 +1,26 @@
-### Hi there 👋
+# Olá, eu sou o David 👋
 
-<!--
-**dreiver1/dreiver1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Full-Stack apaixonado por tecnologia e programação.
 
-Here are some ideas to get you started:
+## Linguagens e ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui estão algumas das linguagens e ferramentas que mais utilizo:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreiver1&layout=compact)
+
+## Projetos
+
+Alguns projetos interessantes que desenvolvi:
+
+- [FungiCare](https://github.com/dreiver1/FungiCare-Client)
+- [Escola-Livre](https://github.com/dreiver1/escola_livre)
+- [Stremly](https://github.com/dreiver1/streamly)
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub do seu nome](https://github-readme-stats.vercel.app/api?username=dreiver1&show_icons=true)
+
+## Contribuição
+
+- 🌟 Se você gostou de algum dos meus projetos, deixe uma estrela nele!
+- 🤝 Estou sempre aberto a colaborações em projetos interessantes. Entre em contato!
