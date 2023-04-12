@@ -7,7 +7,9 @@ Sou um desenvolvedor Full-Stack apaixonado por tecnologia e programação.
 Aqui estão algumas das linguagens e ferramentas que mais utilizo:
 
 
- <img align="center" Heigh="300px" src="https://github-readme-stats.vercel.app/api?username=dreiver1&show_icons=true&theme=vue-dark&hide_border=true" alt="Anurag's github stats" /> <img align="center" Heigh="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreiver1&layout=compact&theme=vue-dark&hide_border=true" /> 
+<div>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreiver1&show_icons=true&theme=vue-dark&hide_border=true" alt="Anurag's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreiver1&layout=compact&theme=vue-dark&hide_border=true" /> 
+</div>
 
 
 ## Projetos
