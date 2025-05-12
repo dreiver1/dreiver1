@@ -20,7 +20,7 @@ Trabalho principalmente com as seguintes linguagens e frameworks:
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreiver1&layout=compact&theme=vue-dark&hide_border=true&hide=python" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreiver1&layout=compact&theme=vue-dark&hide_border=true" alt="Top Langs" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreiver1&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
