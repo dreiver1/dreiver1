@@ -41,7 +41,7 @@ Sistema de gestão escolar com frontend e backend independentes, incluindo funci
 
 **Stack:** Node.js, Express, Vue.js, Quasar, Pinia, Prisma e SQLite.
 
-🔗 [Frontend](https://github.com/dreiver1/Aluria) • [Backend](https://github.com/dreiver1/escola-livre-api)
+🔗 [Frontend](https://github.com/dreiver1/aluria-app) • [Backend](https://github.com/dreiver1/aluria-api)
 
 ### 3. 🛒 Giraê — Sistema de Ponto de Venda
 
@@ -57,7 +57,7 @@ Sistema comercial para gerenciamento de produtos, categorias, usuários e pedido
 
 **Stack:** Node.js, Express, TypeScript, Prisma, SQLite, Vue.js e Quasar.
 
-🔗 [Backend](https://github.com/dreiver1/simple-pdv) • [Frontend](https://github.com/dreiver1/simple-pdv-app)
+🔗 [Backend](https://github.com/dreiver1/girae-api) • [Frontend](https://github.com/dreiver1/girae-app)
 
 ### 4. 📱 [Capacitor Step Counter — Plugin Open Source](https://github.com/dreiver1/capacitor-step-counter)
 
